@@ -1,4 +1,7 @@
 /.cache/
 /.gocache/
-/bin/
+bin/
 /vendor/
+
+.DS_Store
+**/.DS_Store
